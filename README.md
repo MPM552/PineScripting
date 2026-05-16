@@ -1,2 +1,2 @@
 # PineScripting
-Mostly one-shot scripts for testing strategies
+One-shot scripts for testing strategies
